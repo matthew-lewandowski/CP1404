@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8df8d41-5217-447f-8c4d-c1abf7d66b78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/prac_04/lottery_ticket_gen.py" afterPath="$PROJECT_DIR$/prac_04/lottery_ticket_gen.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lottery_ticket_gen.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lottery_ticket_gen.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_04/lottery_ticket_gen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="168">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_comprehensions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_04/list_comprehensions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -112,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_comprehensions">
+  <component name="RunManager" selected="Python.lottery_ticket_gen">
     <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +152,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lottery_ticket_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -143,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CP1404" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/lottery_ticket_gen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,19 +225,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.total_monthly_incomes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.numbers_list" />
-      <item index="3" class="java.lang.String" itemvalue="Python.security_checker" />
-      <item index="4" class="java.lang.String" itemvalue="Python.list_comprehensions" />
+      <item index="0" class="java.lang.String" itemvalue="Python.total_monthly_incomes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.numbers_list" />
+      <item index="2" class="java.lang.String" itemvalue="Python.security_checker" />
+      <item index="3" class="java.lang.String" itemvalue="Python.list_comprehensions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lottery_ticket_gen" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.list_comprehensions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.security_checker" />
-        <item index="2" class="java.lang.String" itemvalue="Python.numbers_list" />
-        <item index="3" class="java.lang.String" itemvalue="Python.total_monthly_incomes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lottery_ticket_gen" />
+        <item index="1" class="java.lang.String" itemvalue="Python.list_comprehensions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.security_checker" />
+        <item index="3" class="java.lang.String" itemvalue="Python.numbers_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python.total_monthly_incomes" />
       </list>
     </recent_temporary>
   </component>
@@ -262,19 +283,26 @@
       <option name="project" value="LOCAL" />
       <updated>1521596307764</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished intermediate work in prac 4, including list comp">
+      <created>1521596538402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521596538402</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077736646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.5113025" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32383123" sideWeight="0.48869753" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.48869753" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21568628" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20184544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -392,7 +420,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_04/list_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
+        <state relative-caret-position="231">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
@@ -400,8 +428,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_04/lottery_ticket_gen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="168">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
