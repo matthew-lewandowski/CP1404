@@ -10,7 +10,7 @@ def is_not_blank(name):
 
 
 def prints_name(name):
-    for i in range(0, len(name), 2):
+    for i in range(1, len(name), 2):
         print(name[i])
 
 
