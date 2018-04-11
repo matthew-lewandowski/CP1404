@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8df8d41-5217-447f-8c4d-c1abf7d66b78" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CP1404.iml" afterPath="$PROJECT_DIR$/.idea/CP1404.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac_07/guitar.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" afterPath="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_07/car.py" afterPath="$PROJECT_DIR$/prac_07/car.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_07/used_cars.py" afterPath="$PROJECT_DIR$/prac_07/used_cars.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_07/languages.py" afterPath="$PROJECT_DIR$/prac_07/languages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac_07/programming_language.py" afterPath="$PROJECT_DIR$/prac_07/programming_language.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +18,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CP1404$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1522834311368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
     <SUITE FILE_PATH="coverage/CP1404$miles_to_kilometres.coverage" NAME="miles_to_kilometres Coverage Results" MODIFIED="1523410411852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1523414019459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$simple_loop.coverage" NAME="simple_loop Coverage Results" MODIFIED="1523350997392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1522839131962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
     <SUITE FILE_PATH="coverage/CP1404$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1523399540966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
@@ -52,11 +51,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="languages.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="languages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guitar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_07/guitar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guitar_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_07/guitar_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_guitars.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_07/my_guitars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -111,8 +140,12 @@
         <option value="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" />
         <option value="$PROJECT_DIR$/prac_07/car.py" />
         <option value="$PROJECT_DIR$/prac_07/used_cars.py" />
-        <option value="$PROJECT_DIR$/prac_07/programming_language.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar_attributes.py" />
         <option value="$PROJECT_DIR$/prac_07/languages.py" />
+        <option value="$PROJECT_DIR$/prac_07/programming_language.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar_test.py" />
+        <option value="$PROJECT_DIR$/prac_07/my_guitars.py" />
       </list>
     </option>
   </component>
@@ -231,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.languages">
+  <component name="RunManager" selected="Python.guitar_test">
     <configuration default="false" name="miles_to_kilometres" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,24 +279,6 @@
       <module name="CP1404" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/miles_to_kilometres.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="quick_sum_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/kivy_demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CP1404" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/quick_sum_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -318,6 +333,24 @@
       <module name="CP1404" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/languages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CP1404" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/guitar_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -526,18 +559,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.miles_to_kilometres" />
-      <item index="1" class="java.lang.String" itemvalue="Python.quick_sum_app" />
-      <item index="2" class="java.lang.String" itemvalue="Python.spinner_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.used_cars" />
-      <item index="4" class="java.lang.String" itemvalue="Python.languages" />
+      <item index="1" class="java.lang.String" itemvalue="Python.spinner_demo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.used_cars" />
+      <item index="3" class="java.lang.String" itemvalue="Python.languages" />
+      <item index="4" class="java.lang.String" itemvalue="Python.guitar_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.languages" />
-        <item index="1" class="java.lang.String" itemvalue="Python.used_cars" />
-        <item index="2" class="java.lang.String" itemvalue="Python.miles_to_kilometres" />
-        <item index="3" class="java.lang.String" itemvalue="Python.spinner_demo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.quick_sum_app" />
+        <item index="0" class="java.lang.String" itemvalue="Python.guitar_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.languages" />
+        <item index="2" class="java.lang.String" itemvalue="Python.used_cars" />
+        <item index="3" class="java.lang.String" itemvalue="Python.miles_to_kilometres" />
+        <item index="4" class="java.lang.String" itemvalue="Python.spinner_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -632,7 +665,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523348010096</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Classes">
+      <created>1523412116988</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1523412116988</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -709,34 +749,14 @@
     <MESSAGE value="start new prac" />
     <MESSAGE value="prac_05 finished" />
     <MESSAGE value="converting miles to kilometres with kiv" />
-    <option name="LAST_COMMIT_MESSAGE" value="converting miles to kilometres with kiv" />
+    <MESSAGE value="Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_04/security_checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_04/lottery_ticket_gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_04/list_comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_04/numbers_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1057,6 +1077,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/programming_language.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1065,10 +1109,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
+    <entry file="file://$PROJECT_DIR$/prac_07/my_guitars.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
