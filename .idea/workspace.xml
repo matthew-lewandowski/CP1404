@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c8df8d41-5217-447f-8c4d-c1abf7d66b78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" beforeDir="false" afterPath="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,29 +16,35 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CP1404$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1522851693855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
-    <SUITE FILE_PATH="coverage/CP1404$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1522834080910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$simple_loop.coverage" NAME="simple_loop Coverage Results" MODIFIED="1523350997392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1522839131962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
-    <SUITE FILE_PATH="coverage/CP1404$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1522834311368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
-    <SUITE FILE_PATH="coverage/CP1404$miles_to_kilometres.coverage" NAME="miles_to_kilometres Coverage Results" MODIFIED="1523347399136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1523407581116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1522845792536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$dynamic_widgets__1_.coverage" NAME="dynamic_widgets (1) Coverage Results" MODIFIED="1523351238999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$game_v1.coverage" NAME="game_v1 Coverage Results" MODIFIED="1523351243477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$spinner_demo.coverage" NAME="spinner_demo Coverage Results" MODIFIED="1523399540966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
     <SUITE FILE_PATH="coverage/CP1404$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1522835901015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1522834080910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$popup_demo.coverage" NAME="popup_demo Coverage Results" MODIFIED="1522834311368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$miles_to_kilometres.coverage" NAME="miles_to_kilometres Coverage Results" MODIFIED="1523400277172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$quick_sum_app.coverage" NAME="quick_sum_app Coverage Results" MODIFIED="1523351280820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="miles_to_kilometres.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_06/miles_to_kilometres.py">
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_07/car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="miles_to_kilometres.kv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac_06/miles_to_kilometres.kv">
+      <file leaf-file-name="used_cars.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="372">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -48,6 +57,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stat</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -79,7 +93,11 @@
         <option value="$PROJECT_DIR$/prac_06/kivy_demos/squaring.py" />
         <option value="$PROJECT_DIR$/prac_06/kivy_demos/squaring.kv" />
         <option value="$PROJECT_DIR$/prac_06/miles_to_kilometres.py" />
+        <option value="$PROJECT_DIR$/prac_06/simple_loop.py" />
+        <option value="$PROJECT_DIR$/prac_06/simple_loop.kv" />
         <option value="$PROJECT_DIR$/prac_06/miles_to_kilometres.kv" />
+        <option value="$PROJECT_DIR$/prac_07/used_cars.py" />
+        <option value="$PROJECT_DIR$/prac_07/car.py" />
       </list>
     </option>
   </component>
@@ -105,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,13 +134,12 @@
             <path>
               <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_06" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,6 +149,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mattu\PycharmProjects\CP1404\prac_06\kivy_demos" />
       <recent name="C:\Users\mattu\PycharmProjects\CP1404\prac_06" />
     </key>
   </component>
@@ -146,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.miles_to_kilometres">
-    <configuration name="box_layout_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.used_cars">
+    <configuration name="game_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,45 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\mattu\PycharmProjects\CP1404\prac_06\box_layout_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="dynamic_widgets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CP1404" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/kivy_demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="id_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CP1404" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/kivy_demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/id_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/game_v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +204,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="squaring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sum_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,26 +217,64 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\mattu\PycharmProjects\CP1404\prac_06\squaring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/quick_sum_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="spinner_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP1404" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/kivy_demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/kivy_demos/spinner_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="used_cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CP1404" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/used_cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.box_layout_demo" />
-      <item itemvalue="Python.id_demo" />
-      <item itemvalue="Python.squaring" />
       <item itemvalue="Python.miles_to_kilometres" />
-      <item itemvalue="Python.dynamic_widgets" />
+      <item itemvalue="Python.game_v1" />
+      <item itemvalue="Python.quick_sum_app" />
+      <item itemvalue="Python.spinner_demo" />
+      <item itemvalue="Python.used_cars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.used_cars" />
         <item itemvalue="Python.miles_to_kilometres" />
-        <item itemvalue="Python.dynamic_widgets" />
-        <item itemvalue="Python.squaring" />
-        <item itemvalue="Python.box_layout_demo" />
-        <item itemvalue="Python.id_demo" />
+        <item itemvalue="Python.spinner_demo" />
+        <item itemvalue="Python.quick_sum_app" />
+        <item itemvalue="Python.game_v1" />
       </list>
     </recent_temporary>
   </component>
@@ -333,10 +352,24 @@
       <option name="project" value="LOCAL" />
       <updated>1522202355920</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="converting miles to kilometres with kiv">
+      <created>1523347880203</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1523347880203</updated>
+    </task>
+    <task id="LOCAL-00011" summary="converting miles to kilometres with kiv">
+      <created>1523348010096</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1523348010096</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -349,18 +382,18 @@
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.327252" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1997226" side_tool="true" visible="true" weight="0.19740634" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49930653" weight="0.17521368" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5006935" side_tool="true" weight="0.32708934" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48869753" weight="0.32295272" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8002774" visible="true" weight="0.19740634" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32964602" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31900138" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8002774" visible="true" weight="0.19884726" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964602" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8615108" weight="0.25797504" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" sideWeight="0.13652483" side_tool="true" weight="0.12483221" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930653" weight="0.39913544" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,30 +401,35 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20882669" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8615108" visible="true" weight="0.25797504" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48869753" weight="0.32295272" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.327252" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.48869753" weight="0.32383123" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20069204" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32964602" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5113025" side_tool="true" weight="0.32756633" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" sideWeight="0.13652483" side_tool="true" visible="true" weight="0.12483221" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49930653" weight="0.17521368" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8002774" visible="true" weight="0.19884726" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930653" weight="0.39913544" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964602" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5006935" side_tool="true" weight="0.32708934" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,20 +472,21 @@
     <MESSAGE value="added git ignore" />
     <MESSAGE value="start new prac" />
     <MESSAGE value="prac_05 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac_05 finished" />
+    <MESSAGE value="converting miles to kilometres with kiv" />
+    <option name="LAST_COMMIT_MESSAGE" value="converting miles to kilometres with kiv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.py">
+    <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_04/numbers_list.py">
+    <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -675,11 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/quick_sum_gui.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/id_demo.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -705,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="e#109#133#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,22 +751,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state relative-caret-position="123">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_06/miles_to_kilometres.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/simple_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/game_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/simple_loop.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/spinner_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/quick_sum_gui.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/kivy_demos/quick_sum_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_06/miles_to_kilometres.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="272">
+          <caret line="16" column="78" lean-forward="true" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/miles_to_kilometres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
