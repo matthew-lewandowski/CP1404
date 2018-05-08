@@ -18,6 +18,7 @@
     <SUITE FILE_PATH="coverage/CP1404$simple_loop.coverage" NAME="simple_loop Coverage Results" MODIFIED="1523350997392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$taxi.coverage" NAME="taxi Coverage Results" MODIFIED="1525421358782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
     <SUITE FILE_PATH="coverage/CP1404$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1522839131962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
+    <SUITE FILE_PATH="coverage/CP1404$file_exceptoins.coverage" NAME="file_exceptoins Coverage Results" MODIFIED="1525755755383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
     <SUITE FILE_PATH="coverage/CP1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1523414019459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1523942711989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$game_v1.coverage" NAME="game_v1 Coverage Results" MODIFIED="1523351243477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06/kivy_demos" />
@@ -45,7 +46,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="taxi_simulator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="taxi_simulator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac_08/taxi_simulator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -57,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="file_exceptoins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_09/file_exceptoins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_08/car.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -151,6 +161,8 @@
         <option value="$PROJECT_DIR$/prac_08/car.py" />
         <option value="$PROJECT_DIR$/prac_08/taxi.py" />
         <option value="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
+        <option value="$PROJECT_DIR$/prac_09/file_name" />
+        <option value="$PROJECT_DIR$/prac_09/file_exceptoins.py" />
       </list>
     </option>
   </component>
@@ -187,12 +199,12 @@
             <path>
               <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_07" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_08" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.taxi_simulator">
+  <component name="RunManager" selected="Python.file_exceptoins">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +258,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="my_people" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file_exceptoins" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,12 +266,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/my_people.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/file_exceptoins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -531,19 +543,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Python.my_people" />
       <item itemvalue="Python.taxi" />
       <item itemvalue="Python.taxi_test" />
       <item itemvalue="Python.unreliable_test" />
       <item itemvalue="Python.taxi_simulator" />
+      <item itemvalue="Python.file_exceptoins" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_exceptoins" />
         <item itemvalue="Python.taxi_simulator" />
         <item itemvalue="Python.taxi_test" />
         <item itemvalue="Python.unreliable_test" />
         <item itemvalue="Python.taxi" />
-        <item itemvalue="Python.my_people" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523972522292</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Classes">
+      <created>1525753559034</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525753559034</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -662,16 +681,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28932893" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28932893" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2155361" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -732,27 +752,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Classes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_03/temperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_03/name_checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_03/broken_score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="20" selection-start-line="12" selection-start-column="28" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_04/trying.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1049,13 +1048,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_08/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_08/silver_taxi_service.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1077,6 +1069,30 @@
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/file_name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/car.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/file_exceptoins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
