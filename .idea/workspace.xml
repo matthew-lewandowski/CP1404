@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/test/test.py" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8df8d41-5217-447f-8c4d-c1abf7d66b78" name="Default" comment="everything before test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.kv" beforeDir="false" afterPath="$PROJECT_DIR$/prac_06/kivy_demos/dynamic_widgets.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_06/kivy_demos/spinner_demo.kv" beforeDir="false" afterPath="$PROJECT_DIR$/prac_06/kivy_demos/spinner_demo.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_09/file_exceptoins.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_09/file_exceptoins.py" afterDir="false" />
-    </list>
+    <list default="true" id="c8df8d41-5217-447f-8c4d-c1abf7d66b78" name="Default" comment="everything before test" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -132,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/test/enumerate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -251,6 +246,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,7 +283,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -593,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525755789852</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="everything before test">
+      <created>1528606721389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528606721389</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -967,7 +969,7 @@
     <entry file="file://$PROJECT_DIR$/test/enumerate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
